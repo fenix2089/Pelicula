@@ -1,0 +1,39 @@
+body
+{
+  background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/stranger-things-capitulos-temporada-3-titulos-1544540664.jpg);
+}
+
+.img
+{
+  width: 100%;
+  margin-top: 50px;
+}
+
+h1
+{
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: red;
+}
+
+h3
+{
+  text-align: left;
+}
+
+.container
+{
+ width: 50%
+}
+
+.img-l
+{
+  margin-left: 700px;
+  margin-top: -600px;
+}
+
+h2, h3
+{
+  font-family: 'Lato', sans-serif;
+  color: white;
+}
